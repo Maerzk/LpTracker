@@ -1,18 +1,2 @@
-Interessante API zur MMR
+Interesting API for MMR
 https://dev.whatismymmr.com/
-
-sqlite
-
-um exe zu erstellen:
-auto-py-to-exe
-
-flask
-
-https://hackerthemes.com/bootstrap-cheatsheet/
-flexbox
-
-Plugin für 
-prettier
-
-https://europe.api.riotgames.com/lol/match/v5/matches/by-puuid/P1z9B7a2qjDgrxIB5f16BSziLXg2QBzVdzXm2kFvloShDlCVAWZZaY_sgk2GBcye0WCk9dHtxlbjMQ/ids?start=0&count=20&api_key=RGAPI-f1611772-a34f-4653-a16c-0832965969c7
-https://europe.api.riotgames.com/lol/match/v5/matches/by-puuid/M-5l0VyRjjenUNnDFS4Htu-ft6F4EmA7SZ1MNgR3ElT-nLWBQkjt3REf5ZFRYq8XjthpldaK7dTazg/ids?start=0&count=20&api_key=RGAPI-39617f28-caa7-4e98-97dd-08ce6bab6335
