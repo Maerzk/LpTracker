@@ -1,5 +1,6 @@
-_key.py
+_keys.py
 Pythonfiles/_keys.py
+__pycache__/
 
 *.sqlite
 *.sql
