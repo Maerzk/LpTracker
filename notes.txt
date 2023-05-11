@@ -1,2 +1,0 @@
-Interesting API for MMR
-https://dev.whatismymmr.com/
